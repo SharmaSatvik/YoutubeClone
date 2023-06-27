@@ -1,0 +1,6 @@
+.flex-box{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    flex-direction: row;
+    margin: 50px;
+}
